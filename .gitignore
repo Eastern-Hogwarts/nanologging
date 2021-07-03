@@ -1,0 +1,8 @@
+# IDE/editor
+.vscode/
+
+# build
+build/
+
+# log
+*.log
