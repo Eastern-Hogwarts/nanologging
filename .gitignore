@@ -6,3 +6,6 @@ build/
 
 # log
 *.log
+
+# devtest
+*devtest*
