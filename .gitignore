@@ -9,3 +9,5 @@ build/
 
 # devtest
 *devtest*
+
+tmp/
